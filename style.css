@@ -213,6 +213,7 @@ a {
   grid-column: 1/6;
   grid-row: 6/12;
   border-radius: 20px 20px 0 0;
+
 }
 
 .card:nth-child(6) {
