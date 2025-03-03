@@ -218,7 +218,7 @@ a {
 .card:nth-child(6) {
   margin: 0 16px;
   grid-column: 6/14;
-  grid-row: 6/11;
+  grid-row: 5/11;
   border-radius: 0 0 20px 20px;
 }
 
